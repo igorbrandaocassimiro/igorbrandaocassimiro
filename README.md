@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, iniciei meus estudos em 2024 e conheci o mundo da programação. Participei de um programa de tecnologia desenvolvido em parceria com o Serratec, onde o foco era o ensino prático e intensivo.<br><br>Atualmente estou me aprofundando em Java, Spring Boot para criar APIs e implementações de microsserviços, além de conceitos de arquiteturas de software e otimização de aplicações.<br><br>Meu envolvimento com tecnologia não se restringe somente à programação. Sou comunicativo e proativo, gosto de trabalhar em equipe e estou sempre atento a novas tecnologias e novas maneiras de solucionar problemas.<br><br>Tenho como objetivo me consolidar na área de backend e contribuir com projetos e soluções reais. Futuramente, pretendo expandir meus conhecimentos para atuar também na área mobile e me tornar um profissional mais completo.</p>
+.</p>
 
 ###
 
