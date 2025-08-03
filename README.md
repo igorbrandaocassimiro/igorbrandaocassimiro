@@ -1,31 +1,44 @@
+<!-- Banner opcional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=150&section=header&text=Igor%20Brandão&fontSize=40&fontColor=ffffff" />
+</p>
 
+# 👋 Olá, eu sou Igor Brandão
 
-###
+💻 **Desenvolvedor Backend | Foco em C# e .NET**  
+🚀 Apaixonado por tecnologia e boas práticas de desenvolvimento  
 
-<h1 align="center">Olá 👋<br><br>Meu nome é Igor Brandão</h1>
+---
 
-###
+## 🛠️ Tecnologias
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 📂 Projetos em Destaque
+✅ Em breve projetos estarão disponíveis aqui!  
+*(Enquanto isso, acompanhe minha evolução nos commits e estudos.)*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+---
 
-###
+## 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" alt="Streak Stats" height="150"/>
+</p>
 
-<h3 align="left"></h3>
+---
 
-###
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorbrandaocassimirodaflon@gmail.com)
 
-<p align="left"></p>
+---
 
-###
+<!-- Rodapé opcional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=footer"/>
+</p>
