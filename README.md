@@ -24,14 +24,6 @@
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" alt="Streak Stats" height="150"/>
-</p>
-
----
-
 ## 📫 Contato
 [![LinkedIn](https://www.linkedin.com/in/igor-brandao-cassimiro/)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorbrandaocassimirodaflon@gmail.com)
