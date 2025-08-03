@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://www.linkedin.com/in/igor-brandao-cassimiro/)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorbrandaocassimirodaflon@gmail.com)
 
 ---
