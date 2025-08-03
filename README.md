@@ -20,16 +20,7 @@
 
 ## 📂 Projetos em Destaque
 ✅ Em breve projetos estarão disponíveis aqui!  
-*(Enquanto isso, acompanhe minha evolução nos commits e estudos.)*
-
----
-
-## 📫 Contato
-[![LinkedIn](https://www.linkedin.com/in/igor-brandao-cassimiro/)
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorbrandaocassimirodaflon@gmail.com)
-
----
-
+*(Enquanto isso, acompanhe minha evolução nos commits e estudos)*
 <!-- Rodapé opcional -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=120&section=footer"/>
