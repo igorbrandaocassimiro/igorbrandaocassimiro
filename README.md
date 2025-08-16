@@ -6,7 +6,7 @@
 # 👋 Olá, eu sou Igor Brandão
 
 💻 **Desenvolvedor Backend | Foco em C# e .NET**  
-🚀 Apaixonado por tecnologia e boas práticas de desenvolvimento  
+🚀 Sou um desenvolvedor de software com curiosidade por aprender e melhorar.
 
 ---
 
