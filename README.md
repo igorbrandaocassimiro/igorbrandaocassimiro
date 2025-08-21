@@ -29,6 +29,15 @@
 ![Badge C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 ![Badge .NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
 
+### 🔹 [**Cadastro de Alunos**](https://github.com/igorbrandaocassimiro/Cadastro-de-Alunos)
+> 🛠️ **Tecnologias:** C#, .NET, Programação Orientada a Objetos  
+> 🎯 **Objetivo:** Cadastrar alunos pelo console e verificar se estão aprovados ou reprovados com base na nota.  
+> 📌 **Funcionalidades:** Solicita nome, idade, curso e nota; exibe informações do aluno; verifica aprovação com nota mínima de 6.0.  
+
+![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)  
+![Badge C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+![Badge .NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+
 ---
 
 *(Mais projetos serão adicionados conforme minha jornada evolui — acompanhe meus commits!)*
