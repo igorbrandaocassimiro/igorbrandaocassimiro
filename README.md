@@ -20,10 +20,10 @@
 
 ## 📂 Projetos em Destaque
 
-### 🔹 [**Trilha .NET - Fundamentos (Desafio)**](https://github.com/igorbrandaocassimiro/trilha-net-fundamentos-desafio)
+### 🔹 [**Sistema de Estacionamento**](https://github.com/igorbrandaocassimiro/Projeto-Estacionamento)
 > 🛠️ **Tecnologias:** C#, .NET, Programação Orientada a Objetos  
-> 🎯 **Objetivo:** Exercitar os fundamentos do .NET criando aplicações práticas.  
-> 📌 **Conceitos aplicados:** Variáveis, operadores, estruturas condicionais, laços de repetição, métodos e boas práticas de código.
+> 🎯 **Objetivo:** Gerenciar veículos em um estacionamento de forma prática pelo console.  
+> 📌 **Funcionalidades:** Cadastrar veículos, remover veículos calculando o valor total, listar veículos e validar placas existentes.  
 
 ![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)  
 ![Badge C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
