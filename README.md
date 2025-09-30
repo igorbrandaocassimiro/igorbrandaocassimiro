@@ -17,25 +17,28 @@
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projeto em Destaque
 
-### 🔹 [**Sistema de Estacionamento**](https://github.com/igorbrandaocassimiro/Projeto-Estacionamento)
-> 🛠️ **Tecnologias:** C#, .NET, Programação Orientada a Objetos  
-> 🎯 **Objetivo:** Gerenciar veículos em um estacionamento de forma prática pelo console.  
-> 📌 **Funcionalidades:** Cadastrar veículos, remover veículos calculando o valor total, listar veículos e validar placas existentes.  
+### 🔹 [**Crud-em-.Net | API CRUD de Pessoas (ASP.NET Core + MySQL)**](https://github.com/igorbrandaocassimiro/Crud-em-.Net)
+> Este projeto é uma API RESTful completa desenvolvida em **ASP.NET Core** para a gestão de registros de Pessoas.  
+> Ele implementa todas as quatro operações **CRUD** (Create, Read, Update, Delete) de forma robusta e utiliza o **Entity Framework Core** para comunicação com um banco de dados **MySQL**.
 
-![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)  
+---
+
+## ✨ Destaques e Funcionalidades
+
+| Recurso | Descrição |
+| :--- | :--- |
+| **Tecnologia Principal** | ASP.NET Core Web API (C#). |
+| **Banco de Dados** | MySQL Server. |
+| **Mapeamento de Dados** | Entity Framework Core (Abordagem Code First). |
+| **Integridade de Dados** | Validação de modelo (Model State) via **Data Annotations** (ex: `[Required]`). |
+| **Documentação** | **Swagger/OpenAPI** integrado para testes interativos e visualização clara dos endpoints. |
+
+![Badge Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square)  
 ![Badge C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 ![Badge .NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
-
-### 🔹 [**Cadastro de Alunos**](https://github.com/igorbrandaocassimiro/Cadastro-de-Alunos)
-> 🛠️ **Tecnologias:** C#, .NET, Programação Orientada a Objetos  
-> 🎯 **Objetivo:** Cadastrar alunos pelo console e verificar se estão aprovados ou reprovados com base na nota.  
-> 📌 **Funcionalidades:** Solicita nome, idade, curso e nota; exibe informações do aluno; verifica aprovação com nota mínima de 6.0.  
-
-![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square)  
-![Badge C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![Badge .NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![Badge MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
 ---
 
