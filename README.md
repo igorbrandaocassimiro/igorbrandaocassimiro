@@ -35,7 +35,6 @@
 | **Integridade de Dados** | Validação de modelo (Model State) via **Data Annotations** (ex: `[Required]`). |
 | **Documentação** | **Swagger/OpenAPI** integrado para testes interativos e visualização clara dos endpoints. |
 
-![Badge Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square)  
 ![Badge C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 ![Badge .NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
 ![Badge MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
